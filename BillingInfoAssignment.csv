@@ -1,0 +1,18 @@
+FirstName,LastName,AgeInYears,Gender,Opinion,ChargesInDollars,Insurance
+Sam,Miller,33,M,5,58,Self Pay
+Joe,Smith,21,F,2,59,Medicaid
+Bill,Walsh,56,F,1,78,Medicaid
+Tom,Palmer,53,M,2,24,BCBS
+John,Bidwell,51,F,5,46,Private
+Adam,Hartmier,22,M,1,30,BCBS
+Claire,Brown,62,F,4,114,BCBS
+Toni,Black,39,M,1,51,BCBS
+Laura,Miller,60,F,5,100,Private
+Ann,Mattson,61,F,3,45,Private
+Tim,Dimmler,65,M,1,55,Private
+Jenn,Wilson,60,F,1,36,Medicaid
+Liz,Johnson,61,M,3,62,Self Pay
+Mark,Miller,28,F,4,100,Self Pay
+Rich,Colwell,54,M,4,111,Self Pay
+Brian,Smith,64,M,2,59,Medicaid
+Lisa,Clinton,44,F,3,45,BCBS

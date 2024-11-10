@@ -1,0 +1,21 @@
+ID,AgeInYears,Gender,Opinion,ChargesInDollars,VisitTimeInMin,Insurance,PriorVisits,Date,State
+1,33,M,5,58,64,Self Pay,64,1/1/14,Alabama AL
+2,21,F,2,59,69,Medicaid,69,1/5/14,Alaska AK
+3,56,F,1,78,81,Medicaid,81,1/15/14,Arizona AZ
+4,53,M,2,24,31,BCBS,31,1/25/14,Arkansas AR
+5,51,F,5,46,48,Private,48,2/5/14,California CA
+6,22,M,1,30,38,BCBS,38,2/13/14,Colorado CO
+7,62,F,4,114,120,BCBS,120,2/14/14,Connecticut CT
+8,39,M,1,51,60,BCBS,60,3/23/14,Delaware DE
+9,60,F,5,100,107,Private,107,3/25/14,Florida FL
+10,61,F,3,45,51,Private,51,3/28/14,Georgia GA
+11,65,M,1,55,61,Private,61,4/2/14,Hawaii HI
+12,60,F,1,36,42,Medicaid,42,4/8/14,Idaho ID
+13,61,M,3,62,70,Self Pay,70,4/18/14,Illinois IL
+14,28,F,4,100,109,Self Pay,109,4/20/14,Indiana IN
+15,54,M,4,111,111,Self Pay,111,4/21/14,Iowa IA
+16,64,M,2,59,72,Medicaid,72,4/25/14,Kansas KS
+17,44,F,3,45,57,BCBS,57,4/28/14,Kentucky KY
+18,25,F,2,58,60,Private,60,5/12/14,Louisiana LA
+19,35,M,1,95,107,Private,107,5/15/14,Maine ME
+20,32,F,2,92,101,Private,101,5/25/14,Maryland MD
